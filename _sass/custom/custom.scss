@@ -50,6 +50,30 @@ body .search-input:focus                   { border-color: #27ae60; box-shadow: 
 // ── Section 7: Aux / external nav links ───────────────────────────────
 body .aux-nav-list-item a                  { color: #2ecc71; }
 
+// ── Section 8: Buttons ────────────────────────────────────────────────
+body .btn-primary {
+  background-color: #27ae60;
+  border-color:     #27ae60;
+  color:            #fff;
+}
+
+body .btn-primary:hover {
+  background-color: #2ecc71;
+  border-color:     #2ecc71;
+  color:            #fff;
+}
+
+body .btn-outline {
+  color:        #2ecc71;
+  border-color: #2ecc71;
+}
+
+body .btn-outline:hover {
+  background-color: #27ae60;
+  border-color:     #27ae60;
+  color:            #fff;
+}
+
 
 // ══════════════════════════════════════════════════════════════════════
 // STRUCTURAL RULES — identical across all repos
