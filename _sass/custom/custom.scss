@@ -51,27 +51,37 @@ body .search-input:focus                   { border-color: #27ae60; box-shadow: 
 body .aux-nav-list-item a                  { color: #2ecc71; }
 
 // ── Section 8: Buttons ────────────────────────────────────────────────
-body .btn-primary {
-  background-color: #27ae60;
-  border-color:     #27ae60;
-  color:            #fff;
+// Just the Docs compiles buttons as .btn.btn-primary (compound selector).
+// !important is required to override the theme's compiled SCSS specificity.
+.btn.btn-primary,
+a.btn.btn-primary {
+  background-color: #27ae60 !important;
+  border-color:     #27ae60 !important;
+  color:            #fff    !important;
 }
 
-body .btn-primary:hover {
-  background-color: #2ecc71;
-  border-color:     #2ecc71;
-  color:            #fff;
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+a.btn.btn-primary:hover,
+a.btn.btn-primary:focus {
+  background-color: #2ecc71 !important;
+  border-color:     #2ecc71 !important;
+  color:            #fff    !important;
 }
 
-body .btn-outline {
-  color:        #2ecc71;
-  border-color: #2ecc71;
+.btn.btn-outline,
+a.btn.btn-outline {
+  color:        #2ecc71 !important;
+  border-color: #2ecc71 !important;
 }
 
-body .btn-outline:hover {
-  background-color: #27ae60;
-  border-color:     #27ae60;
-  color:            #fff;
+.btn.btn-outline:hover,
+.btn.btn-outline:focus,
+a.btn.btn-outline:hover,
+a.btn.btn-outline:focus {
+  background-color: #27ae60 !important;
+  border-color:     #27ae60 !important;
+  color:            #fff    !important;
 }
 
 
