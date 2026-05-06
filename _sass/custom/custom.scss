@@ -55,30 +55,37 @@ body .aux-nav-list-item a                  { color: #2ecc71; }
 // !important is required to override the theme's compiled SCSS specificity.
 .btn.btn-primary,
 a.btn.btn-primary {
+  background:       #27ae60 !important;
   background-color: #27ae60 !important;
   border-color:     #27ae60 !important;
   color:            #fff    !important;
+  box-shadow:       none    !important;
 }
 
 .btn.btn-primary:hover,
 .btn.btn-primary:focus,
 a.btn.btn-primary:hover,
 a.btn.btn-primary:focus {
+  background:       #2ecc71 !important;
   background-color: #2ecc71 !important;
   border-color:     #2ecc71 !important;
   color:            #fff    !important;
+  box-shadow:       none    !important;
 }
 
 .btn.btn-outline,
 a.btn.btn-outline {
-  color:        #2ecc71 !important;
-  border-color: #2ecc71 !important;
+  background:       transparent !important;
+  background-color: transparent !important;
+  color:            #2ecc71    !important;
+  border-color:     #2ecc71    !important;
 }
 
 .btn.btn-outline:hover,
 .btn.btn-outline:focus,
 a.btn.btn-outline:hover,
 a.btn.btn-outline:focus {
+  background:       #27ae60 !important;
   background-color: #27ae60 !important;
   border-color:     #27ae60 !important;
   color:            #fff    !important;
