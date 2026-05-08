@@ -116,11 +116,11 @@ flowchart LR
 
 | Resource | Link |
 |----------|------|
-| 🏗️ Azure Well-Architected Framework | [learn.microsoft.com/azure/well-architected](https://learn.microsoft.com/en-us/azure/well-architected/) |
-| 💰 Cost Optimization Pillar | [learn.microsoft.com/.../cost-optimization](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/) |
-| 📋 WAF Assessment Tool | [Azure Well-Architected Review](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/) |
-| 🔧 Microsoft Cost Management | [Cost Management docs](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices) |
-| 🧮 Azure Pricing Calculator | [azure.microsoft.com/pricing/calculator](https://azure.microsoft.com/pricing/calculator) |
+| 🏗️ Azure Well-Architected Framework | [Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/) |
+| 💰 Cost Optimization Pillar | [Cost Optimization](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/) |
+| 📋 WAF Assessment Tool | [Well-Architected Review](https://learn.microsoft.com/en-us/assessments/azure-architecture-review/) |
+| 🔧 Microsoft Cost Management | [Cost Management best practices](https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices) |
+| 🧮 Azure Pricing Calculator | [Azure Pricing Calculator](https://azure.microsoft.com/pricing/calculator) |
 | 🧭 Azure Advisor | [Azure Advisor](https://learn.microsoft.com/en-us/azure/advisor/advisor-overview) |
 
 ---

@@ -86,12 +86,12 @@ flowchart LR
 
 | Category | Examples |
 |----------|---------|
-| **Compute** | Virtual Machines, Azure Dedicated Host, Azure VMware Solution |
+| **Compute** | Virtual Machines, Azure Dedicated Host, Azure VMware Solution, Azure App Service (Isolated tier, Premium v3) |
 | **Storage** | Azure Blob (reserved capacity), Azure Files, Azure Managed Disks |
 | **Databases** | Azure SQL Database, Azure Cosmos DB, Azure Database for PostgreSQL/MySQL |
-| **Networking** | Azure ExpressRoute, Azure App Service (Isolated tier) |
+| **Networking** | Azure ExpressRoute |
 | **Analytics** | Azure Synapse Analytics, Azure Data Explorer |
-| **Other** | Azure Red Hat OpenShift, Azure App Service (Premium v3) |
+| **Other** | Azure Red Hat OpenShift |
 
 ### When to Use Reservations
 
