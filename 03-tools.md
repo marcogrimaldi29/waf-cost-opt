@@ -58,7 +58,7 @@ The Azure Pricing Calculator lets you **estimate the cost of Azure services** be
 
 | Aspect | Detail |
 |--------|--------|
-| **URL** | [azure.microsoft.com/pricing/calculator](https://azure.microsoft.com/pricing/calculator) |
+| **URL** | [Azure Pricing Calculator](https://azure.microsoft.com/pricing/calculator) |
 | **Cost** | Free |
 | **Scope** | Per-solution estimate — mix and match any Azure services |
 | **Output** | Monthly cost estimate, exportable to Excel |
@@ -87,7 +87,7 @@ The **Total Cost of Ownership (TCO) Calculator** helps organisations compare the
 
 | Aspect | Detail |
 |--------|--------|
-| **URL** | [azure.microsoft.com/pricing/tco/calculator](https://azure.microsoft.com/pricing/tco/calculator/) |
+| **URL** | [TCO Calculator](https://azure.microsoft.com/pricing/tco/calculator/) |
 | **Cost** | Free |
 | **Scope** | On-premises vs. Azure comparison |
 | **Output** | 1–5 year cost comparison report |

@@ -27,7 +27,7 @@ mermaid: true
 
 FinOps is **not a cost-cutting exercise** — it is about maximising the business value derived from every unit of cloud spend.
 
-> **FinOps Foundation:** [finops.org](https://www.finops.org/) (part of The Linux Foundation)
+> **[FinOps Foundation](https://www.finops.org/)** (part of The Linux Foundation)
 
 ---
 
@@ -257,7 +257,7 @@ The FinOps Foundation defines a maturity model with three levels:
 
 | Resource | Link |
 |----------|------|
-| FinOps Foundation | [finops.org](https://www.finops.org/) |
+| FinOps Foundation | [FinOps Foundation](https://www.finops.org/) |
 | FinOps with Azure | [Microsoft Learn — FinOps](https://learn.microsoft.com/en-us/azure/cost-management-billing/finops/) |
 | WAF Cost Optimization | [Cost Optimization pillar](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/) |
 | WAF Cost Optimization Training | [Microsoft Learn module](https://learn.microsoft.com/en-us/training/modules/azure-well-architected-cost-optimization/) |
