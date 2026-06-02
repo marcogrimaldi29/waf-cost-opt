@@ -82,6 +82,12 @@ The site uses **[Just the Docs](https://github.com/just-the-docs/just-the-docs)*
 
 ---
 
+## ⭐ Support This Project
+
+If you found these notes useful for your WAF reviews or Cost Optimization conversations, consider giving the repo a **⭐ star on GitHub** — it helps increase visibility and supports the effort behind keeping this content up to date. Thank you! 🙌
+
+---
+
 ## ✍️ About the Author
 
 Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solutions Architect.

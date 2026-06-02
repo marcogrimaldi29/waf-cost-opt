@@ -125,6 +125,14 @@ flowchart LR
 
 ---
 
+## ⭐ Support This Project
+
+If you found these notes useful for your WAF reviews or Cost Optimization conversations, consider giving the repo a **star on GitHub** — it helps increase visibility and supports the effort behind keeping this content up to date. Thank you! 🙌
+
+[⭐ Star on GitHub](https://github.com/marcogrimaldi29/waf-cost-opt){: .btn .btn-outline .fs-5 }
+
+---
+
 ## ✍️ About the Author
 
 Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solutions Architect.
