@@ -1,13 +1,13 @@
 ---
 layout: home
-title: WAF Cost Optimization
+title: Azure WAF Cost Optimization — Deep Dive
 nav_order: 1
 description: "Azure Well-Architected Framework — Cost Optimization Pillar. Companion notes for Cloud Solutions Architects covering design principles, savings opportunities, tools, governance, and FinOps."
 permalink: /
 mermaid: true
 ---
 
-# 💰 Azure WAF: Cost Optimization — Deep Dive
+# 💰 Azure Well-Architected Framework: Cost Optimization — Deep Dive
 {: .no_toc }
 
 **Companion notes covering architectures' best practices and Cost Optimization strategies**
