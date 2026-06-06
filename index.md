@@ -7,10 +7,10 @@ permalink: /
 mermaid: true
 ---
 
-# 💰 Azure WAF — Cost Optimization Notes
+# 💰 Azure WAF: Cost Optimization — Deep Dive
 {: .no_toc }
 
-**Cloud Solutions Architect Deep Dive**
+**Companion notes covering architectures' best practices and Cost Optimization strategies**
 {: .fs-5 .fw-300 }
 
 [Get Started →](/waf-cost-opt/00-waf-overview){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -18,7 +18,7 @@ mermaid: true
 
 ---
 
-> 🏠 Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solutions Architect.
+> 🏠 Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solution Architect.
 > Based on the **[official Microsoft WAF Cost Optimization documentation](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/)**.
 > Find more notes and content at **[🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**.
 > *Not affiliated with or endorsed by Microsoft. Always verify against the latest documentation.*
@@ -27,7 +27,7 @@ mermaid: true
 
 ## 📌 What Is This?
 
-These notes serve as a **companion reference** to the official Azure Well-Architected Framework documentation, focusing on the **Cost Optimization pillar**. They are designed for **Cloud Solutions Architects** involved in customer conversations around WAF reviews, cost governance, and financial optimization on Azure.
+These notes serve as a **companion reference** to the official Azure Well-Architected Framework documentation, focusing on the **Cost Optimization pillar**. They are designed for **Cloud Solution Architects** involved in customer conversations around WAF reviews, cost governance, and financial optimization on Azure.
 
 The content covers the full scope of Cost Optimization — from design principles and the official checklist, through practical savings mechanisms (Reservations, Savings Plans, Azure Hybrid Benefit), to the tools and governance practices that make cost discipline sustainable.
 
@@ -135,7 +135,7 @@ If you found these notes useful for your WAF reviews or Cost Optimization conver
 
 ## ✍️ About the Author
 
-Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solutions Architect.
+Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solution Architect.
 
 📍 **Find more content at [🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 

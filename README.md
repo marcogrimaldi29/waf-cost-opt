@@ -1,19 +1,19 @@
-# 💰 Azure WAF — Cost Optimization Notes
+# 💰 Azure WAF: Cost Optimization — Deep Dive
 
 [![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/waf-cost-opt/)
 [![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
 
-> - 🎯 **Goal:** Companion notes for Cloud Solutions Architects involved in WAF reviews and Cost Optimization conversations
+> - 🎯 **Goal:** Companion notes covering architectures' best practices and Cost Optimization strategies
 > - 📅 **Notes Version:** 2026 (updated as the framework evolves)
-> - 🌐 **Published site:** [WAF Cost Optimization Notes](https://marcogrimaldi29.com/waf-cost-opt/)
+> - 🌐 **Published site:** [Azure WAF: Cost Optimization — Deep Dive](https://marcogrimaldi29.com/waf-cost-opt/)
 > - ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
 
 ---
 
 ## 📌 What Is This?
 
-These notes are a **practical companion** to the official [Azure Well-Architected Framework — Cost Optimization pillar](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/) documentation. They are designed for **Cloud Solutions Architects** working with customers on WAF reviews, cost governance, and financial optimization on Azure.
+These notes are a **practical companion** to the official [Azure Well-Architected Framework — Cost Optimization pillar](https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/) documentation. They are designed for **Cloud Solution Architects** working with customers on WAF reviews, cost governance, and financial optimization on Azure.
 
 The content covers design principles, savings mechanisms, tools, governance practices, and FinOps terminology — everything a CSA needs for structured Cost Optimization conversations.
 
@@ -60,16 +60,6 @@ waf-cost-opt/
 
 ---
 
-## 🌐 Published Site
-
-These notes are hosted on GitHub Pages and published at:
-
-👉 **[https://marcogrimaldi29.com/waf-cost-opt/](https://marcogrimaldi29.com/waf-cost-opt/)**
-
-The site uses **[Just the Docs](https://github.com/just-the-docs/just-the-docs)** for full-text search, Mermaid diagram rendering, and mobile-friendly navigation.
-
----
-
 ## 📄 Official Resources
 
 | Resource | Link |
@@ -90,7 +80,7 @@ If you found these notes useful for your WAF reviews or Cost Optimization conver
 
 ## ✍️ About the Author
 
-Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solutions Architect.
+Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solution Architect.
 
 🏠 Find more notes and content at **[🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
