@@ -1,4 +1,4 @@
-# 💰 Azure WAF: Cost Optimization — Deep Dive
+# 💰 Azure Well-Architected Framework: Cost Optimization — Deep Dive
 
 [![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/waf-cost-opt/)
@@ -6,7 +6,7 @@
 
 > - 🎯 **Goal:** Companion notes covering architectures' best practices and Cost Optimization strategies
 > - 📅 **Notes Version:** 2026 (updated as the framework evolves)
-> - 🌐 **Published site:** [Azure WAF: Cost Optimization — Deep Dive](https://marcogrimaldi29.com/waf-cost-opt/)
+> - 🌐 **Published site:** [Azure Well-Architected Framework: Cost Optimization — Deep Dive](https://marcogrimaldi29.com/waf-cost-opt/)
 > - ✍️ **Author:** [Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)
 
 ---
