@@ -2,7 +2,7 @@
 
 [![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/waf-cost-opt/)
-[![Personal Hub](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
+[![marcogrimaldi29.com](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
 
 > - 🎯 **Goal:** Companion notes covering architectures' best practices and Cost Optimization strategies
 > - 📅 **Notes Version:** 2026 (updated as the framework evolves)
@@ -82,7 +82,7 @@ If you found these notes useful for your WAF reviews or Cost Optimization conver
 
 Maintained by **[Marco Grimaldi](https://www.linkedin.com/in/marco-grimaldi29/)** — Cloud Solution Architect.
 
-🏠 Find more notes and content at **[🌐 marcogrimaldi29.com](https://marcogrimaldi29.com)**
+Find more notes and content at **[🏠 marcogrimaldi29.com](https://marcogrimaldi29.com)**
 
 ---
 
