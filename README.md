@@ -1,6 +1,5 @@
 # 💰 Azure Well-Architected Framework: Cost Optimization — Deep Dive
 
-[![Deploy to GitHub Pages](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml/badge.svg)](https://github.com/marcogrimaldi29/waf-cost-opt/actions/workflows/pages.yml)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-brightgreen?logo=github)](https://marcogrimaldi29.com/waf-cost-opt/)
 [![marcogrimaldi29.com](https://img.shields.io/badge/Blog-marcogrimaldi29.com-blue?logo=rss)](https://marcogrimaldi29.com)
 
@@ -72,9 +71,20 @@ waf-cost-opt/
 
 ---
 
-## ⭐ Support This Project
+## 🐞 Spotted a Mistake?
 
-If you found these notes useful for your WAF reviews or Cost Optimization conversations, consider giving the repo a **⭐ star on GitHub** — it helps increase visibility and supports the effort behind keeping this content up to date. Thank you! 🙌
+Azure pricing and the Well-Architected Framework change often, so if something here is wrong or out of date, please [report an issue](https://github.com/marcogrimaldi29/waf-cost-opt/issues).
+
+---
+
+## 💚 Support
+
+If you found these notes useful for your WAF reviews or Cost Optimization conversations, there are a couple of ways to show it: ⭐ star this repo on GitHub so other architects can find it, or 🤝 connect with me on LinkedIn.
+
+<p>
+  <a href="https://github.com/marcogrimaldi29/waf-cost-opt"><img src="https://img.shields.io/badge/Star_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Star on GitHub" /></a>
+  <a href="https://www.linkedin.com/in/marco-grimaldi29/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg%3D%3D" alt="Connect on LinkedIn" /></a>
+</p>
 
 ---
 
