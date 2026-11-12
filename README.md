@@ -73,7 +73,7 @@ waf-cost-opt/
 
 ## 🐞 Spotted a Mistake?
 
-Azure pricing and the Well-Architected Framework change often, so if something here is wrong or out of date, please [report an issue](https://github.com/marcogrimaldi29/waf-cost-opt/issues).
+Azure pricing and the Well-Architected Framework change often, so if something here is wrong or out of date, please [report an issue](https://github.com/marcogrimaldi29/waf-cost-opt/issues). The [contributing guide](.github/CONTRIBUTING.md) explains what makes a report quick to fix and what's out of scope.
 
 ---
 
